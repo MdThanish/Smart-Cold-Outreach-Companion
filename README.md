@@ -1,4 +1,3 @@
-
 # 📬 Smart Cold Outreach Companion
 
 **Smart Cold Outreach Companion** is an AI-powered tool designed to streamline your job application process by generating tailored cold emails based on job listings. Simply input the job listing URL, and this tool will analyze job details, match your skills, and produce personalized email drafts with relevant portfolio links!
@@ -11,6 +10,9 @@
 - ⚡ **Fast and Efficient**: Get a personalized cold email in seconds, tailored for the specific job you're applying to.
 - 🔍 **ChromoDB Integration**: Leverages ChromoDB for efficient data retrieval and management of job listings.
 - 🤖 **ChatGroq-Powered Conversations**: Uses ChatGroq for smarter, real-time AI interactions and query processing.
+
+![Architecture Diagram](imgs/architecture.png "Architecture Diagram")
+
 
 ## Installation
 
